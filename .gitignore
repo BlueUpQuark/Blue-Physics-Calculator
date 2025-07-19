@@ -39,3 +39,13 @@
 
 # debug information files
 *.dwo
+
+# Ignore Visual Studio user-specific and temporary files
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+*.ipch/
+*.db
+*.opendb
+
